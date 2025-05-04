@@ -2,7 +2,7 @@
 # Hi there, I’m Filip Bondzulic 👋
 
 [![PHP](https://img.shields.io/badge/PHP-8.x-informational?style=flat-square&logo=php&logoColor=white)](#)  
-[![Laravel](https://img.shields.io/badge/Laravel-12.x-ff2d20?style=flat-square&logo=laravel&logoColor=white)](#)  
+[![Laravel](https://img.shields.io/badge/Laravel-10.x-ff2d20?style=flat-square&logo=laravel&logoColor=white)](#)  
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-42b883?style=flat-square&logo=vue.js&logoColor=white)](#)  
 
 ---
