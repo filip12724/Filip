@@ -16,7 +16,7 @@ I’m a final‑year ICT College student in Serbia, specializing in backend deve
 
 - **Languages & Frameworks:** PHP · Laravel · Vue.js · JavaScript  
 - **Tools & Platforms:** Composer · NPM · Git · MySQL · Docker  
-- **Concepts:** RESTful APIs · MVC · OOP · TDD  
+- **Concepts:** RESTful APIs · MVC · OOP
 
 ---
 
