@@ -43,9 +43,6 @@ Bachelor of Information and Communication Technologies (final year)
 
 ## 📊 GitHub Stats  
 
-<!-- GitHub Readme Stats card -->
-![Filip’s GitHub stats](https://github-readme-stats.vercel.app/api?username=filip12724&show_icons=true&count_private=true&theme=default)  
-
 <!-- Top languages card -->  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filip12724&layout=compact)  
 
